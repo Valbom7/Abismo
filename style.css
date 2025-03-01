@@ -733,13 +733,15 @@ footer h1{margin-top: 0px; }
       padding: 5px;
     }
     .mi-seccion {
-      display: block;
+      display: inline;
       gap: 20px;
       padding: 20px;
     }
     .galeria img{
       width:50%;
     }
+    .noti img{
+      width:80%
   }
   /* Mobil */
 
